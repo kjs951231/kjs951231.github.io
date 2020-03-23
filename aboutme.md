@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 정보보안2020
+title: 김정수
 subtitle: Why you'd want to go on a date with me
 ---
 

@@ -25,7 +25,7 @@ baseurl: ""
 navbar-links:
   About Me: "김정수"
   Resources:
-    - Naver: "https://www.naver.com/"
+    - Beautiful Jekyll: "https://www.naver.com/"
     - Learn markdown : "https://www.daum.net/"
   Author's home: "https://www.naver.com/"
 
