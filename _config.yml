@@ -23,10 +23,10 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  : "김정수"
-  SEARCH:
-    - NAVER : "https://www.naver.com/"
-    - DAUM : "https://www.daum.net/"
+  About Me: "김정수"
+  Resources:
+    - Beautiful Jekyll: "https://www.naver.com/"
+    - Learn markdown : "https://www.daum.net/"
   Author's home: "https://www.naver.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
