@@ -23,7 +23,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "정보보안2019"
+  About Me: ""
   SEARCH:
     - NAVER.: "https://www.naver.com/"
     - DAUM. : "https://www.daum.net/"
