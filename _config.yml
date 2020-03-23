@@ -25,7 +25,7 @@ baseurl: ""
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll : "https://lingssoft.github.io"
+    - Beautiful Jekyll : "https://naver.com"
     - Learn markdown : "https://lingssoft.github.io"
   Author's home: "https://lingssoft.github.io"
 
