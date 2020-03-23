@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: nenji
+title: KIM JUNG SOO
 
 # Short description of your site
 description: InfoSecu site
@@ -14,7 +14,7 @@ encoding: UTF-8
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://lingssoft.github.io"
+url: "https://kjs951231.github.io"
 
 # baseurl should be an empty string
 baseurl: ""
