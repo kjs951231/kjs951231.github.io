@@ -23,7 +23,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  : "±èÁ¤¼ö"
+  : "ê¹€ì •ìˆ˜"
   SEARCH:
     - NAVER : "https://www.naver.com/"
     - DAUM : "https://www.daum.net/"
