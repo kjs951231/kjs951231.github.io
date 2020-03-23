@@ -23,7 +23,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  WEBTOON: "https://comic.naver.com/index.nhn"
+  공사중: ""
   SEARCH:
     - NAVER.: "https://www.naver.com/"
     - DAUM. : "https://www.daum.net/"
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/KJS.jpg"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -42,13 +42,13 @@ avatar: "/img/KJS.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: ""
-navbar-text-col: ""
-navbar-children-col: ""
-page-col: ""
-link-col: ""
-hover-col: ""
-footer-col: ""
+navbar-col: "#F5F5F5"
+navbar-text-col: "404040"
+navbar-children-col: "F5F5F5"
+page-col: "FFFFFF"
+link-col: "008AFF"
+hover-col: "0085A1"
+footer-col: "F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
