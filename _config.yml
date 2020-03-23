@@ -27,7 +27,7 @@ navbar-links:
   SEARCH:
     - NAVER.: "https://www.naver.com/"
     - DAUM. : "https://www.daum.net/"
-  김정수: "https://www.naver.com/"
+  Github: "https://github.com/git"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

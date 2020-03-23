@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 김정수1212
+title: 정보보안2019
 subtitle: Why you'd want to go on a date with me
 ---
 
