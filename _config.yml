@@ -23,7 +23,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://kjs951231.github.io/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%882019"
+  About Me: "https://kjs951231.github.io/"
   SEARCH:
     - NAVER.: "https://www.naver.com/"
     - DAUM. : "https://www.daum.net/"
