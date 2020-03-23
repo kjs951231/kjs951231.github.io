@@ -42,13 +42,13 @@ avatar: "/img/KJS.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#B0E0E6"
-navbar-text-col: "#FA8072"
-navbar-children-col: "#FFFAFA"
-page-col: "#FFC0CB"
-link-col: "#4169E1"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+navbar-col: ""
+navbar-text-col: ""
+navbar-children-col: ""
+page-col: ""
+link-col: ""
+hover-col: ""
+footer-col: ""
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
