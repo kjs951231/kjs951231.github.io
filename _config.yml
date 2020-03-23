@@ -23,7 +23,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  수정중: ""
+  About Me: ""
   SEARCH:
     - NAVER.: "https://www.naver.com/"
     - DAUM. : "https://www.daum.net/"
