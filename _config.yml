@@ -23,7 +23,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://github.com/git"
+  About Me: "about me"
   SEARCH:
     - NAVER.: "https://www.naver.com/"
     - DAUM. : "https://www.daum.net/"
@@ -235,6 +235,13 @@ prose:
       - name: "date"
         field:
           element: "text"
+
+
+
+
+
+
+
           label: "Date"
           help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
