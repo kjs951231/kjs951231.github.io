@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 김정수11
+title: 김정수1212
 subtitle: Why you'd want to go on a date with me
 ---
 
