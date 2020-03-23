@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: 정보보안2020
 subtitle: Why you'd want to go on a date with me
 ---
 
